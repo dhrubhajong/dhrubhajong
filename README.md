@@ -8,7 +8,7 @@
 
 ## **ABOUT ME**
 
-- 🔭 I’m currently working as **Data Scientist** at **Geeklurn AI Solutions Pvt. Ltd.**
+- 🔭 I’m currently working as **Data Science Research Associate**
 
 - 🌱 I’m currently working on **ML pipelines & DL Framework.**
 
