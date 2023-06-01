@@ -6,7 +6,7 @@
 <img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Data+Scientist%20@%20Geeklurn;Data+Enthusiast'/>
 </div>
 
-## **ABOUT ME**
+## **ABOUT ME**.
 
 - 🔭 I’m currently working as **Data Science Research Associate**
 
