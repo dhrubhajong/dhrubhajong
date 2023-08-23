@@ -8,7 +8,7 @@
 
 ## **ABOUT ME**.
 
-- 🔭 I’m currently working as **Senior Associate Consultant**
+- 🔭 I’m currently working as **Senior Consultant**
 
 - 🌱 I’m currently working on **ML pipelines & DL Framework.**
 
