@@ -3,12 +3,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukruth097&label=Profile%20views&color=0e75b6&style=flat" alt="Sukruth097" /> </p>
 
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Data+Scientist%20@%20Geeklurn;Data+Enthusiast'/>
+<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Data+Scientist%20@%20Genpact;Data+Enthusiast'/>
 </div>
 
 ## **ABOUT ME**.
 
-- 🔭 I’m currently working as **Data Science Research Associate**
+- 🔭 I’m currently working as **Senior Associate Consultant**
 
 - 🌱 I’m currently working on **ML pipelines & DL Framework.**
 
