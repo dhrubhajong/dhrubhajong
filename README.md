@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukruth097&label=Profile%20views&color=0e75b6&style=flat" alt="Sukruth097" /> </p>
 
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Data+Scientist%20@%20Genpact;Data+Enthusiast'/>
+<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Senior Consultant%20@%20Genpact;Data+Enthusiast'/>
 </div>
 
 ## **ABOUT ME**.
